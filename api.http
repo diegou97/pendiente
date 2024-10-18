@@ -1,0 +1,8 @@
+###obtener todos los datos
+GET http://localhost:13/movies
+
+###obtener datos por id
+GET http://localhost:3000/movies/5ad1a235-0d9c-410a-b32b-220d91689a08
+
+###metodo eliminar
+GET http://localhost:13/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
